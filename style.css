@@ -1,0 +1,21 @@
+body { 
+		background: url(img.jpg); 
+}
+h1 {
+		color: Brown;
+		font-size : 50pt;
+		font-weight : 900;
+		border : 1px solid white;
+		background : GhostWhite;
+		padding : 5px;
+		opacity : 0.8;	
+}
+li {
+		color: black;
+		font-size : 26pt;
+		font-weight : 700;
+		border : 1px solid white;
+		background : GhostWhite;
+		padding : 5px;
+		opacity : 0.6;
+}
